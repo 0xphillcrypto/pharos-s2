@@ -10,7 +10,7 @@ Automate Pharos Network Season 2 testnet missions: complete quests, claim faucet
 
 ## 🚀 Features
 
-* Multi-wallet support via `.env`
+* Multi-wallet support via `.env` if the format is incorrect or the script faill use chatgpt to give u the correct format 
 * Auto faucet claim
 * Complete testnet quests  fow new df (txs, interactions)
 * Loop mode for continuous runs
